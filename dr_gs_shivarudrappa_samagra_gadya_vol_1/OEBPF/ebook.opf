@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns='http://www.idpf.org/2007/opf' version='2.0' unique-identifier='BookId'>
 	<metadata xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:opf='http://www.idpf.org/2007/opf'>
-		<dc:title>ಸಮಗ್ರ ಗದ್ಯ 1  - ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:title>
+		<dc:title>ಸಮಗ್ರ ಗದ್ಯ ೧  - ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:title>
 		<dc:identifier id='BookId' opf:scheme='URI'>B1RuiwI3</dc:identifier>
 		<dc:language>kn</dc:language>
 		<dc:creator opf:role='aut' opf:file-as=''>ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:creator>
 		<dc:publisher></dc:publisher>
-		<dc:description>ಸಮಗ್ರ ಗದ್ಯ 1  - ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:description>
+		<dc:description>ಸಮಗ್ರ ಗದ್ಯ ೧  - ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:description>
 		<dc:coverage></dc:coverage>
 		<dc:source>www.kanaja.in</dc:source>
 		<dc:date opf:event='publication'>2016</dc:date>
