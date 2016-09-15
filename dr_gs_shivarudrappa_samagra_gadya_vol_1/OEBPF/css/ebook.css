@@ -1,0 +1,32 @@
+body {
+    font-size: medium;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 3px solid black;
+    margin-left: 0px;
+    padding-left: 10px;
+}
+
+code {
+    font-family: monospace;
+    word-wrap: break-word;
+}
+
+p {
+    text-indent: 1em;
+}
+
+pre > code {
+    line-height: 1.5;
+}
+
+pre {
+    border-left: 3px solid black;
+    background-color: rgb(240, 240, 240);
+    padding-left: 10px;
+    text-align: left;
+    white-space: pre-wrap;
+    font-size: 75%;
+}

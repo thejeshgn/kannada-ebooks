@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns='http://www.idpf.org/2007/opf' version='2.0' unique-identifier='BookId'>
+	<metadata xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:opf='http://www.idpf.org/2007/opf'>
+		<dc:title>ಸಮಗ್ರ ಗದ್ಯ 1  - ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:title>
+		<dc:identifier id='BookId' opf:scheme='URI'>B1RuiwI3</dc:identifier>
+		<dc:language>kn</dc:language>
+		<dc:creator opf:role='aut' opf:file-as=''>ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:creator>
+		<dc:publisher></dc:publisher>
+		<dc:description>ಸಮಗ್ರ ಗದ್ಯ 1  - ಡಾ|| ಜಿ ಎಸ್ ಶಿವರುದ್ರಪ್ಪ</dc:description>
+		<dc:coverage></dc:coverage>
+		<dc:source>www.kanaja.in</dc:source>
+		<dc:date opf:event='publication'>2016</dc:date>
+		<dc:date opf:event='modification'>2016-09-14</dc:date>
+		<dc:rights></dc:rights>
+		<dc:subject>Unknown</dc:subject>
+		<meta name='cover' content='cover-image'/>
+		<link rel="foaf:homepage" href="https://thejeshgn.com/projects/kannada-ebooks/" />
+	</metadata>
+	<manifest>
+		<item id='cover-image' media-type='image/png' href='images/cover.png'/>
+		<item id='cover' media-type='application/xhtml+xml' href='cover.xhtml'/>
+		<item id='navigation' media-type='application/x-dtbncx+xml' href='navigation.ncx'/>
+		<item id='s1' media-type='application/xhtml+xml' href='content/s1.xhtml'/>
+		<item id='s2' media-type='application/xhtml+xml' href='content/s2.xhtml'/>
+		<item id='s3' media-type='application/xhtml+xml' href='content/s3.xhtml'/>
+		<item id='s4' media-type='application/xhtml+xml' href='content/s4.xhtml'/>
+		<item id='s5' media-type='application/xhtml+xml' href='content/s5.xhtml'/>
+		<item id='s6' media-type='application/xhtml+xml' href='content/s6.xhtml'/>
+		<item id='s7' media-type='application/xhtml+xml' href='content/s7.xhtml'/>
+		<item id='s8' media-type='application/xhtml+xml' href='content/s8.xhtml'/>
+		<item id='s9' media-type='application/xhtml+xml' href='content/s9.xhtml'/>
+		<item id='s10' media-type='application/xhtml+xml' href='content/s10.xhtml'/>
+		<item id='s11' media-type='application/xhtml+xml' href='content/s11.xhtml'/>
+		<item id='s12' media-type='application/xhtml+xml' href='content/s12.xhtml'/>
+		<item id='s13' media-type='application/xhtml+xml' href='content/s13.xhtml'/>
+		<item id='s14' media-type='application/xhtml+xml' href='content/s14.xhtml'/>
+		<item id='s15' media-type='application/xhtml+xml' href='content/s15.xhtml'/>
+		<item id='s16' media-type='application/xhtml+xml' href='content/s16.xhtml'/>
+		<item id='s17' media-type='application/xhtml+xml' href='content/s17.xhtml'/>
+		<item id='s18' media-type='application/xhtml+xml' href='content/s18.xhtml'/>
+		<item id='s19' media-type='application/xhtml+xml' href='content/s19.xhtml'/>
+		<item id='s20' media-type='application/xhtml+xml' href='content/s20.xhtml'/>
+		<item id='s21' media-type='application/xhtml+xml' href='content/s21.xhtml'/>
+		<item id='s22' media-type='application/xhtml+xml' href='content/s22.xhtml'/>
+		<item id='s23' media-type='application/xhtml+xml' href='content/s23.xhtml'/>
+		<item id='s24' media-type='application/xhtml+xml' href='content/s24.xhtml'/>
+		<item id='s25' media-type='application/xhtml+xml' href='content/s25.xhtml'/>
+		<item id='s26' media-type='application/xhtml+xml' href='content/s26.xhtml'/>
+		<item id='s27' media-type='application/xhtml+xml' href='content/s27.xhtml'/>
+		<item id='s28' media-type='application/xhtml+xml' href='content/s28.xhtml'/>
+		<item id='s29' media-type='application/xhtml+xml' href='content/s29.xhtml'/>
+		<item id='s30' media-type='application/xhtml+xml' href='content/s30.xhtml'/>
+		<item id='s31' media-type='application/xhtml+xml' href='content/s31.xhtml'/>
+		<item id='s32' media-type='application/xhtml+xml' href='content/s32.xhtml'/>
+		<item id='s33' media-type='application/xhtml+xml' href='content/s33.xhtml'/>
+		<item id='s34' media-type='application/xhtml+xml' href='content/s34.xhtml'/>
+		<item id='s35' media-type='application/xhtml+xml' href='content/s35.xhtml'/>
+		<item id='s36' media-type='application/xhtml+xml' href='content/s36.xhtml'/>
+		<item id='s37' media-type='application/xhtml+xml' href='content/s37.xhtml'/>
+		<item id='s38' media-type='application/xhtml+xml' href='content/s38.xhtml'/>
+		<item id='s39' media-type='application/xhtml+xml' href='content/s39.xhtml'/>
+		<item id='s40' media-type='application/xhtml+xml' href='content/s40.xhtml'/>
+		<item id='s41' media-type='application/xhtml+xml' href='content/s41.xhtml'/>
+		<item id='toc' media-type='application/xhtml+xml' href='content/toc.xhtml'/>
+		<item id='css' media-type='text/css' href='css/ebook.css'/>
+	</manifest>
+	<spine toc='navigation'>
+		<itemref idref='cover' linear='yes' />
+		<itemref idref='toc'/>
+		<itemref idref='s1' />
+		<itemref idref='s2' />
+		<itemref idref='s3' />
+		<itemref idref='s4' />
+		<itemref idref='s5' />
+		<itemref idref='s6' />
+		<itemref idref='s7' />
+		<itemref idref='s8' />
+		<itemref idref='s9' />
+		<itemref idref='s10' />
+		<itemref idref='s11' />
+		<itemref idref='s12' />
+		<itemref idref='s13' />
+		<itemref idref='s14' />
+		<itemref idref='s15' />
+		<itemref idref='s16' />
+		<itemref idref='s17' />
+		<itemref idref='s18' />
+		<itemref idref='s19' />
+		<itemref idref='s20' />
+		<itemref idref='s21' />
+		<itemref idref='s22' />
+		<itemref idref='s23' />
+		<itemref idref='s24' />
+		<itemref idref='s25' />
+		<itemref idref='s26' />
+		<itemref idref='s27' />
+		<itemref idref='s28' />
+		<itemref idref='s29' />
+		<itemref idref='s30' />
+		<itemref idref='s31' />
+		<itemref idref='s32' />
+		<itemref idref='s33' />
+		<itemref idref='s34' />
+		<itemref idref='s35' />
+		<itemref idref='s36' />
+		<itemref idref='s37' />
+		<itemref idref='s38' />
+		<itemref idref='s39' />
+		<itemref idref='s40' />
+		<itemref idref='s41' />
+	</spine>
+	<guide>
+		<reference type='toc' title='Contents' href='content/toc.xhtml'></reference>
+	</guide>
+</package>
